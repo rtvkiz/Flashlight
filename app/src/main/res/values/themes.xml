@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Flashlight" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/background_dark</item>
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="SliderStyle" parent="Widget.Material3.Slider">
+        <item name="trackColorActive">@color/slider_track_active</item>
+        <item name="trackColorInactive">@color/slider_track_inactive</item>
+        <item name="thumbColor">@color/primary</item>
+        <item name="haloColor">@color/primary_glow</item>
+        <item name="tickColorActive">@color/primary</item>
+        <item name="tickColorInactive">@color/level_inactive</item>
+    </style>
+
+</resources>
+

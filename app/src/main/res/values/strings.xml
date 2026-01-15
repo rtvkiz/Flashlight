@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="brightness_label">BRIGHTNESS</string>
+    <string name="tap_to_toggle">Tap to toggle</string>
+    <string name="flashlight_on">ON</string>
+    <string name="flashlight_off">OFF</string>
+    <string name="permission_required">Camera permission is required to use the flashlight</string>
+    <string name="no_flash_available">This device does not have a flashlight</string>
+    <string name="brightness_not_supported">Brightness control not supported on this device</string>
+    <string name="level_prefix">Level</string>
+    
+    <!-- Strobe mode -->
+    <string name="strobe_mode">Strobe Mode</string>
+    <string name="strobe_description">Blinking light effect</string>
+    <string name="speed_label">SPEED</string>
+    <string name="slow">SLOW</string>
+    <string name="fast">FAST</string>
+    <string name="hz_suffix">Hz</string>
+</resources>
+
