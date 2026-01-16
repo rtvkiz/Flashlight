@@ -2,10 +2,28 @@
 
 A modern, sleek Android flashlight application with **brightness control** and **strobe mode**. Built with Kotlin and the Camera2 API.
 
+<p align="center">
+  <a href="https://github.com/rtvkiz/Flashlight/releases/latest/download/app-debug.apk">
+    <img src="https://img.shields.io/badge/📥_Download_APK-v1.0.0-brightgreen?style=for-the-badge" alt="Download APK">
+  </a>
+</p>
+
 ![Min SDK](https://img.shields.io/badge/Min%20SDK-23-blue)
 ![Target SDK](https://img.shields.io/badge/Target%20SDK-34-green)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.24-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Release](https://img.shields.io/github/v/release/rtvkiz/Flashlight?color=blue)
+
+---
+
+## 📥 Quick Install
+
+1. **[Download the APK](https://github.com/rtvkiz/Flashlight/releases/latest/download/app-debug.apk)** on your Android phone
+2. Open the downloaded file
+3. Tap **Install** (enable "Install from unknown sources" if prompted)
+4. Done! 🎉
+
+---
 
 ## ✨ Features
 
